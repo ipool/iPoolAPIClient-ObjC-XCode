@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>09BEA350-E0F6-4A79-96E4-16C8CF664321</string>
+	<string>AA1AB561-C2BB-4E10-AAE5-99ED1A8E74B6</string>
 	<key>IDESourceControlProjectName</key>
 	<string>iPoolClient</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>BCCDC50F-BFC9-4A14-B9DC-C74F69BE809D</key>
-		<string>https://github.com/ipool/iPoolAPIClients.git</string>
+		<key>916CFBF1-C882-4645-8495-0641EF0A13E7</key>
+		<string>https://github.com/ipool/iPoolAPIClient-ObjC-XCode.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ObjectiveC/iPoolClient.xcodeproj/project.xcworkspace</string>
+	<string>iPoolClient.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>BCCDC50F-BFC9-4A14-B9DC-C74F69BE809D</key>
-		<string>../../..</string>
+		<key>916CFBF1-C882-4645-8495-0641EF0A13E7</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ipool/iPoolAPIClients.git</string>
+	<string>https://github.com/ipool/iPoolAPIClient-ObjC-XCode.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BCCDC50F-BFC9-4A14-B9DC-C74F69BE809D</string>
+	<string>916CFBF1-C882-4645-8495-0641EF0A13E7</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>BCCDC50F-BFC9-4A14-B9DC-C74F69BE809D</string>
+			<string>916CFBF1-C882-4645-8495-0641EF0A13E7</string>
 			<key>IDESourceControlWCCName</key>
-			<string>iPoolAPIClients</string>
+			<string>iPoolAPIClient-ObjC-XCode</string>
 		</dict>
 	</array>
 </dict>

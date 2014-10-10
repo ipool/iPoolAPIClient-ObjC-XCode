@@ -32,8 +32,8 @@
 
     // setting oauth key and token
     
-    NSString* oauthKey = @"musichackday2014";
-    NSString* oauthToken = @"276ea410-29fb-11e4-8c21-0800200c9a66";
+    NSString* oauthKey = @"hackathon";
+    NSString* oauthToken = @"33f3fb11-59b4-4a38-a549-27bb4628d1af";
     
     NSString* userID = [[NSUUID UUID] UUIDString];
 
